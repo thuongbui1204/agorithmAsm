@@ -1,0 +1,143 @@
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 1
+ID | Title | Quantity | Price 
+P03 | Sugar | 12 | 25.1
+P01 | Miliket | 10 | 5.2
+P02 | Apple | 5 | 4.3
+P05 | Rose | 7 | 15.4
+P07 | Beer | 11 | 12.2
+P04 | Book | 9 | 5.2
+3 | 3 | 3 | 3.0
+4 | 4 | 4 | 4.0
+
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 7
+3 | 3 | 3 | 3.0
+4 | 4 | 4 | 4.0
+P01 | Miliket | 10 | 5.2
+P02 | Apple | 5 | 4.3
+P03 | Sugar | 12 | 25.1
+P04 | Book | 9 | 5.2
+P05 | Rose | 7 | 15.4
+P07 | Beer | 11 | 12.2
+
+Successfully!
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 8
+1100
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 9
+ID | Title | Quantity | Price 
+4 | 4 | 4 | 4.0
+3 | 3 | 3 | 3.0
+P04 | Book | 9 | 5.2
+P07 | Beer | 11 | 12.2
+P05 | Rose | 7 | 15.4
+P02 | Apple | 5 | 4.3
+P01 | Miliket | 10 | 5.2
+P03 | Sugar | 12 | 25.1
+
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 10
+ID | Title | Quantity | Price 
+P03 | Sugar | 12 | 25.1
+P01 | Miliket | 10 | 5.2
+P02 | Apple | 5 | 4.3
+P05 | Rose | 7 | 15.4
+P07 | Beer | 11 | 12.2
+P04 | Book | 9 | 5.2
+3 | 3 | 3 | 3.0
+4 | 4 | 4 | 4.0
+
+-----------------Menu-----------------------------
+Choose one of these options:
+Product List.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display. 
+Exit: 
+0. Exit. 
+------------------------------------------------
+Choice = 
